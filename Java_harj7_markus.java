@@ -47,7 +47,7 @@ public class Java_harj7_markus {
                 continue;
             }
             
-            System.out.print("Kas soovid jätkata (jah/ei)? ");
+            System.out.print("Kas soovid jatkata (jah/ei)? ");
             String vastus = scanner.next();
             if (!vastus.equalsIgnoreCase("jah")) {
                 break;
